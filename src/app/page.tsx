@@ -95,6 +95,10 @@ export default function Home() {
           />
           Go to nextjs.org →
         </a>
+
+        <a href="/api/auth/login">Login</a>
+
+        <a href="/api/auth/logout">Logout</a>
       </footer>
     </div>
   );
